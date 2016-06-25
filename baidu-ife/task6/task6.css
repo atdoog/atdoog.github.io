@@ -7,7 +7,7 @@
     height: 1386px;
     background-color: white;
     margin:0px auto;
-    border: 1px solid red;                               /*需要删除*/
+                        /*需要删除*/
 }
 .header{
     width: 892px;
